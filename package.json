@@ -1,22 +1,20 @@
 {
-  "name": "1tronic-swap-sdk",
-  "version": "1.0.0",
-  "description": "1tronicswap sdk",
+  "name": "@1tronicswap/sdk",
+  "version": "1.0.2",
+  "description": "SDK for 1tronicswap",
   "main": "index.js",
   "scripts": {
-    "test": "yarn test"
+    "test": "yarn start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/1tronicswap/1tronicswap-sdk.git"
-  },
+  "repository": "git+https://github.com/1tronicswap/1tronicswap-sdk.git",
   "keywords": [
-    "sdk"
+    "SDK"
   ],
   "author": "Mike26",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/1tronicswap/1tronicswap-sdk/issues"
   },
-  "homepage": "https://github.com/1tronicswap/1tronicswap-sdk#readme"
+  "homepage": "https://github.com/1tronicswap/1tronicswap-sdk#readme",
+  "private": null
 }
